@@ -3,7 +3,7 @@
 **OroLight** is a web-based deep learning application that classifies oral histopathology images as **cancerous** or **non-cancerous**. It integrates a trained **InceptionResNetV2** model within a Flask app and provides Grad-CAM visualizations for interoperability.
 
 <p align="center">
-  <img src="./orolight.jpg" width="800">
+  <img src="./orolight.jpg" width="400">
 </p>
 
  ---
